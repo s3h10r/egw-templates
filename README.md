@@ -9,8 +9,8 @@ Please feel free to send a pull-request and use the [issue tracker](https://gith
 
 `./square/` - templates for images in square dimension:
 
-<img src="/examples/example.jpg" width="48%" title=""></img>
-<img src="/examples/example1_vb.jpg" width="48%" title=""></img>
+<img src="/examples/example.jpg" width="49%" title=""></img>
+<img src="/examples/example1_vb.jpg" width="49%" title=""></img>
 <img src="/examples/platoscave_unfinished.png" width="98%" title="platos's cave (unfinished), 2019 #einguteswerkzeug 0.3.28"></img>
 
 Original photos by [Julian Hochgesang](https://unsplash.com/photos/BKACkJLu5Hc), [Sarah Dorweiler](https://unsplash.com/photos/7tFlUFGa7Dk) and [David van Dijk](https://unsplash.com/photos/3LTht2nxd34) on [unsplash](https://unsplash.com)
