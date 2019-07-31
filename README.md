@@ -15,7 +15,7 @@ Please feel free to send a pull-request and use the [issue tracker](https://gith
 
 Photos by [Julian Hochgesang](https://unsplash.com/photos/BKACkJLu5Hc), [Sarah Dorweiler](https://unsplash.com/photos/7tFlUFGa7Dk) and [David van Dijk](https://unsplash.com/photos/3LTht2nxd34) on [unsplash](https://unsplash.com)
 
-<img src="/examples/test_generator-mondrian.alpha-blend.jpg" width="98%" title=""></img>
+<img src="/examples/test_generator-mondrian.alpha-blend.png" width="98%" title=""></img>
 
 Photo by Rodion Kutsaev (https://unsplash.com/photos/IJ25m7fXqtk) on [unsplash](https://unsplash.com)
 
